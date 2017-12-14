@@ -1,9 +1,9 @@
-package ch12.bounce;
+package ch14.bounce;
 
-import java.awt.*;
-import java.util.*;
-import java.util.List;
 import javax.swing.*;
+import java.awt.*;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * The component that draws the balls.

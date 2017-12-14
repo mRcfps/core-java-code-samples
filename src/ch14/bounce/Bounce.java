@@ -1,8 +1,9 @@
-package ch12.bounce;
+package ch14.bounce;
 
-import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 /**
  * Shows an animated bouncing ball.

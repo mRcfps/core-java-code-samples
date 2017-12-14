@@ -1,6 +1,8 @@
-package ch12.synch;
+package ch14.synch;
 
-import java.util.concurrent.locks.*;
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * A bank with a number of bank accounts that uses locks for serializing access.

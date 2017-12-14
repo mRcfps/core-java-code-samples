@@ -1,6 +1,7 @@
-package ch12.bounce;
+package ch14.bounce;
 
-import java.awt.geom.*;
+import java.awt.geom.Ellipse2D;
+import java.awt.geom.Rectangle2D;
 
 /**
  * A ball that moves and bounces off the edges of a rectangle

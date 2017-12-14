@@ -1,6 +1,4 @@
-package ch12.synch2;
-
-import java.util.concurrent.locks.*;
+package ch14.synch2;
 
 /**
  * A bank with a number of bank accounts that uses synchronization primitives.
