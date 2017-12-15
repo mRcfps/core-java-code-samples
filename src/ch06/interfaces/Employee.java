@@ -4,6 +4,11 @@ public class Employee implements Comparable<Employee> {
     private String name;
     private double salary;
 
+    public Employee(String n) {
+        name = n;
+        salary = 0;
+    }
+
     public Employee(String n, double s) {
         name = n;
         salary = s;
