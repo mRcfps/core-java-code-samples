@@ -17,6 +17,10 @@ public class Employee {
         hireDay = calendar.getTime();
     }
 
+    public String getName() {
+        return name;
+    }
+
     public double getSalary() {
         return salary;
     }

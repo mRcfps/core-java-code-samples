@@ -20,6 +20,10 @@ public class Manager extends Employee {
         return baseSalary + bonus;
     }
 
+    public double getBonus() {
+        return bonus;
+    }
+
     public void setBonus(double b) {
         bonus = b;
     }
