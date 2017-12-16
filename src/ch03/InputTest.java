@@ -1,6 +1,6 @@
-package ch02;
+package ch03;
 
-import java.util.*;
+import java.util.Scanner;
 
 /**
  * This program demonstrates console input.
